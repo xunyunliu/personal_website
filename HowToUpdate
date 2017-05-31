@@ -1,0 +1,12 @@
+git add .
+git commit -m "Some Message"
+git push -u origin master
+
+to rebuild the HTML, then:
+
+
+hugo
+cd public
+git add .
+git commit -m "Build website"
+git push -u origin master
