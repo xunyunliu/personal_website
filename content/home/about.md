@@ -13,7 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Stream Processing",
-    "SLA-oriented Deployment",
+    "SLA-oriented Application Deployment",
     "Performance Modeling and Optimization"
   ]
 
