@@ -4,7 +4,7 @@ highlight = false
 math = false
 tags = ["latex","troubleshooting"]
 title = "Something's wrong--perhaps a missing \\item. \\end{thebibliography}"
-
+summary = "Fixing a trivial issue when writting with Latex"
 [header]
   caption = ""
   image = ""
