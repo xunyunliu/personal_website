@@ -37,7 +37,7 @@ weight = 1
 
 # Biography
 
-I am a PhD student under the supervision of Professor [Rajkumar Buyya](http://buyya.com/), Dr. [Benjamin Rubinstein](http://www.bipr.net/) and Dr. [Rodrigo N. Calheiros](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/doctor_rodrigo_neves_calheiros) at the [Cloud Computing and Distributed Systems (CLOUDS) Laboratory](http://www.cloudbus.org/), The University of Melbourne. My research interests span various aspects of stream processing, including performance profiling and modeling, SLA-aware application deployment, and light-weight fault tolerance mechanisms.
+I am a PhD student under the supervision of Professor [Rajkumar Buyya](http://buyya.com/), Dr. [Benjamin Rubinstein](http://www.bipr.net/) and Dr. [Rodrigo N. Calheiros](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/doctor_rodrigo_neves_calheiros) at the [Cloud Computing and Distributed Systems (CLOUDS) Laboratory](http://www.cloudbus.org/), the University of Melbourne. My research interests span various aspects of stream processing, such as application profiling, performance modeling, SLA-aware application deployment, and light-weight fault tolerance mechanisms.
 
 
 
