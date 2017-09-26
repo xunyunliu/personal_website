@@ -5,7 +5,7 @@ date = "2017-09-26T14:51:08+10:00"
 math = false
 highlight = true
 tags = ["software","ubuntu"]
-summary = "step-by-step guide"
+summary = "a step-by-step guide"
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
