@@ -23,6 +23,7 @@ If the default language of your Ubuntu system is English, first install the requ
 ![ figure 1](/img/install_sogou/1.png  "install language support") 
 
 if you like being more google-style, give google pinyin a try:
+
         sudo apt-get install fcitx-googlepinyin
 
 ## Install
