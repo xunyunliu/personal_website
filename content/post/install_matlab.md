@@ -4,8 +4,8 @@ date = "2017-09-26T14:51:08+10:00"
 
 math = false
 highlight = true
-tags = []
-
+tags = ["software","ubuntu"]
+summary = "step-by-step guide"
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
@@ -14,7 +14,7 @@ caption = ""
 +++
 
 ## Download software
-Go to the [download page](https://au.mathworks.com/downloads/) and download the install file as a zip.
+Go to the [download page](https://au.mathworks.com/downloads/) and download the installation file as a zip.
 
 You may have to log in using your matlab credentials before downloading the installation file.
 
