@@ -8,6 +8,16 @@ image_preview = ""
 math = false
 publication = "The 23rd IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017)"
 publication_short = "The 23rd IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017)"
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
 publication_types = ["1"]
 selected = false
 title = "D-Storm: Dynamic Resource-Efficient Scheduling of Stream Processing Applications"
