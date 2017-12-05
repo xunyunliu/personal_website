@@ -15,7 +15,7 @@ url_code = ""
 url_dataset = ""
 url_pdf = "pdf/scheduling.pdf"
 url_project = ""
-url_slides = ""
+url_slides = "pdf/icpads-presentation.pdf"
 url_video = ""
 
 [header]
