@@ -24,12 +24,12 @@ weight = 1
 
 [[education.courses]]
   course = "MEng in Computing Technology"
-  institution = "National University of Denfense Technology, P.R.China"
+  institution = "National University of Defense Technology, P.R.China"
   year = 2013
 
 [[education.courses]]
   course = "BSc in Computer Science"
-  institution = "National University of Denfense Technology, P.R.China"
+  institution = "National University of Defense Technology, P.R.China"
   year = 2011
  
 +++
