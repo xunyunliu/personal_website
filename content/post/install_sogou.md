@@ -1,6 +1,6 @@
 +++
 title = "How to install Sogou input on Ubuntu 16.04"
-date = "2017-09-26T15:16:50+10:00"
+date = 2017-09-26T15:16:50+10:00
 
 math = false
 highlight = true

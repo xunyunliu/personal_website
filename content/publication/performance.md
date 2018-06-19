@@ -2,7 +2,7 @@
 abstract = ""
 abstract_short = ""
 authors = ["Xunyun Liu","Rajkumar Buyya"]
-date = "2017-06-10T20:19:18+10:00"
+date = 2017-06-10T20:19:18+10:00
 highlight = true
 image_preview = ""
 math = false

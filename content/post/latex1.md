@@ -1,5 +1,5 @@
 +++
-date = "2017-05-26T16:09:34+10:00"
+date = 2017-05-26T16:09:34+10:00
 highlight = false
 math = false
 tags = ["latex","troubleshooting"]

@@ -2,7 +2,7 @@
 abstract = ""
 abstract_short = ""
 authors = ["Xunyun Liu", "Aaron Harwood", "Shanika Karunasekera", "Benjamin Rubinstein",  "Rajkumar Buyya"]
-date = "2017-05-25T16:55:29+10:00"
+date = 2017-05-25T16:55:29+10:00
 highlight = true
 image_preview = ""
 math = false

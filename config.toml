@@ -16,7 +16,12 @@ googleAnalytics = "UA-99926946-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
+hasCJKLanguage = true 
 defaultContentLanguageInSubdir = false
+
+# Get last modified date for content from Git?
+enableGitInfo = false
+
 
 [outputs]
   home = [ "HTML", "CSS" ]
@@ -116,26 +121,40 @@ defaultContentLanguageInSubdir = false
   # Enable native social sharing buttons?
   sharing = true
 
+  # Privacy pack
+  #   Show a cookie consent message to visitors
+  #   Anonymize IP in Google Analytics (if enabled)
+  privacy_pack = false
+
+
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = []
   custom_js  = []
+
 
   # Publication types.
   #   Used to categorize publications.
   #   The index of the publication type in the list is used as its unique numerical identifier.
   #   The numeric ID is used in a publication's frontmatter to categorize it.
   #   The language can be edited below.
-  #   For multi-lingual sites, copy this block to each language section at the end of this file.
+  #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
+  #   translated.
   publication_types = [
     'Uncategorized',  # 0
-    'Conference proceedings',  # 1
-    'Journal',  # 2
-    'Work in progress',  # 3
-    'Technical report',  # 4
+    'Conference paper',  # 1
+    'Journal article',  # 2
+    'Manuscript',  # 3
+    'Report',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book section'  # 6
   ]
+
+  
+  # Configuration of talk pages.
+  [params.talks]
+  # Show talk time?
+  time = true
   
   # Configuration of publication pages.
   [params.publications]

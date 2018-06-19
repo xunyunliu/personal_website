@@ -2,7 +2,7 @@
 # Recent Posts widget.
 # Note: this widget will only display if `content/post/` contains posts.
 
-date = "2016-04-20T00:00:00"
+date = 2016-04-20T00:00:00
 active = true
 
 title = "Recent Posts"
@@ -20,6 +20,11 @@ tags_exclude = []
 
 # Number of posts to list.
 count = 5
+
+# List format.
+#   0 = Simple
+#   1 = Detailed
+list_format = 1
 
 +++
 

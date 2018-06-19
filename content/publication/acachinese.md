@@ -1,8 +1,8 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["Xunyun Liu, Junjie Wu, Yuhua Tang"]
-date = "2012-08-25T19:38:29+10:00"
+authors = ["Xunyun Liu", "Junjie Wu", "Yuhua Tang"]
+date = 2012-08-25T19:38:29+10:00
 highlight = true
 image_preview = ""
 math = false
