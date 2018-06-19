@@ -31,12 +31,10 @@ weight = 1
   course = "BSc in Computer Science"
   institution = "National University of Defense Technology, P.R.China"
   year = 2011
- 
+
 +++
 
 # Biography
 
-I am a PhD student under the supervision of Professor [Rajkumar Buyya](http://buyya.com/), Dr. [Benjamin Rubinstein](http://www.bipr.net/) and Dr. [Rodrigo N. Calheiros](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/doctor_rodrigo_neves_calheiros) at the [Cloud Computing and Distributed Systems (CLOUDS) Laboratory](http://www.cloudbus.org/), the University of Melbourne. My research interests span various aspects of stream processing, including application profiling, performance modeling, SLA-aware application deployment, and light-weight fault tolerance mechanisms.
-
-
+I am a PhD student at the [Cloud Computing and Distributed Systems (CLOUDS) Laboratory](http://www.cloudbus.org/), the University of Melbourne, supervised by Professor [Rajkumar Buyya](http://buyya.com/), Dr. [Benjamin Rubinstein](http://www.bipr.net/) and Dr. [Rodrigo N. Calheiros](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/doctor_rodrigo_neves_calheiros). My research interests span various aspects of stream processing, including application profiling, performance modeling, SLA-aware application deployment, and light-weight fault tolerance mechanisms. I recently submitted my PhD thesis [Robust Resource Management in Distributed Stream Processing Systems](http://www.cloudbus.org/students/XunyunPhDThesis2018.pdf) which I would really appreciate your valuable comments and suggestions.
 
