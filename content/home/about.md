@@ -18,9 +18,9 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in Computing and Information Systems"
+  course = "PhD in Computing and Information Systems"
   institution = "The University of Melbourne, Australia"
-  year = 2014 
+  year = 2018 
 
 [[education.courses]]
   course = "MEng in Computing Technology"
@@ -36,5 +36,5 @@ weight = 1
 
 # Biography
 
-In July 2018, I completed my PhD study at the [Cloud Computing and Distributed Systems (CLOUDS) Laboratory](http://www.cloudbus.org/), the University of Melbourne, supervised by Professor [Rajkumar Buyya](http://buyya.com/), Assoc. Prof. [Benjamin Rubinstein](http://www.bipr.net/) and Dr. [Rodrigo N. Calheiros](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/doctor_rodrigo_neves_calheiros). My research interests span various aspects of stream processing, including application profiling, performance modeling, SLA-aware application deployment, and light-weight fault tolerance mechanisms. My PhD thesis [Robust Resource Management in Distributed Stream Processing Systems](http://www.cloudbus.org/students/XunyunPhDThesis2018.pdf) has passed the examination process, which I would still appreciate any valuable comments and suggestions.
+In July 2018, I completed my PhD study at the [Cloud Computing and Distributed Systems (CLOUDS) Laboratory](http://www.cloudbus.org/), the University of Melbourne, supervised by Professor [Rajkumar Buyya](http://buyya.com/), Assoc. Prof. [Benjamin Rubinstein](http://www.bipr.net/) and Dr. [Rodrigo N. Calheiros](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/doctor_rodrigo_neves_calheiros). My research interests span various aspects of stream processing, including application profiling, performance modeling, SLA-aware application deployment, and light-weight fault tolerance mechanisms. My PhD thesis [Robust Resource Management in Distributed Stream Processing Systems](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/213941/thesis.pdf?sequence=1&isAllowed=y) has passed the examination process, which I would still appreciate any valuable comments and suggestions.
 
