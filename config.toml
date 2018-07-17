@@ -1,5 +1,5 @@
 baseurl = "https://xunyunliu.github.io/"
-title = "Xunyun Liu - PhD Candidate"
+title = "Xunyun Liu - PhD(Melb)"
 copyright = "&copy; 2017 Xunyun Liu"
 theme = "academic"
 enableEmoji = true
@@ -27,7 +27,7 @@ enableGitInfo = false
   home = [ "HTML", "CSS" ]
 
 # Configure BlackFriday Markdown rendering.
-#   See: https://gohugo.io/readfiles/bfconfig/
+#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
@@ -44,7 +44,7 @@ enableGitInfo = false
   
   # Your details.
   name = "Xunyun Liu"
-  role = "PhD Candidate"
+  role = "Postdoc Research Fellow"
   
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -67,7 +67,7 @@ enableGitInfo = false
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
   logo = ""
   
-  # Date format (refer to Go's date format: http://flippinggodateformat.com )
+  # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
 
@@ -158,7 +158,7 @@ enableGitInfo = false
   
   # Configuration of publication pages.
   [params.publications]
-    # Date format (refer to Go's date format: http://flippinggodateformat.com )
+    # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
     date_format = "January, 2006"
 
@@ -217,6 +217,14 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/xunyunliu/"
 
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  # [[params.social]]
+  #   icon = "cv"
+  #   icon_pack = "ai"
+  #   link = "files/cv.pdf"	
+	
+	
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -252,6 +260,15 @@ enableGitInfo = false
   url = "#contact"
   weight = 6
 
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[menu.main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 7
+  
+  
+  
 # Taxonomies.
 [taxonomies]
   tag = "tags"
