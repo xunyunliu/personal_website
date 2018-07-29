@@ -18,7 +18,7 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computing and Information Systems"
+  course = "PhD in Computer Science"
   institution = "The University of Melbourne, Australia"
   year = 2018 
 
@@ -36,5 +36,5 @@ weight = 1
 
 # Biography
 
-I obtained my PhD in computer science from the University of Melbourne, supervised by Professor [Rajkumar Buyya](http://buyya.com/), A/Prof. [Benjamin Rubinstein](http://www.bipr.net/) and Dr. [Rodrigo N. Calheiros.](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/doctor_rodrigo_neves_calheiros) My research interests at [CLOUDS lab](http://www.cloudbus.org/) include resource management and task scheduling of distributed systems, with a focus on improving the performance and reliability of stream processing on cloud. I have been involved in various research areas such as application profiling, performance modeling, SLA-aware application deployment, and light-weight fault tolerance mechanisms. 
+I obtained my PhD in computer science from the University of Melbourne in 2018, supervised by Professor [Rajkumar Buyya](http://buyya.com/), A/Prof. [Benjamin Rubinstein](http://www.bipr.net/) and Dr. [Rodrigo N. Calheiros.](https://www.westernsydney.edu.au/staff_profiles/uws_profiles/doctor_rodrigo_neves_calheiros) My research interests at [CLOUDS lab](http://www.cloudbus.org/) include resource management and task scheduling of distributed systems, with a focus on improving the performance and reliability of stream processing on cloud. I have been involved in various research areas such as application profiling, performance modeling, SLA-aware application deployment, and light-weight fault tolerance mechanisms. 
 
