@@ -30,6 +30,8 @@ A message broadcaster implemented in a client-server architecture to demonstrate
 - Clients establish a TCP connection with the server
 - Users type a message using the console, the client sends it to the server, the server broadcasts that message to all clients currently connected (including the sending client) and the clients display the message to the user.
 
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vStygvWfjZOWOIjuDCT1exjyc9agUgP8Z_uAFIpw83mTsmHl8rzMCkdVq2ErqVteMMvG-PURZGsVmSd/embed?start=false&loop=false&delayms=3000" >}}
+
 {{% staticref "pdf/messagebroadcaster.pdf" "newtab" %}}Download the slide for this demo.{{% /staticref %}}
 
 Code can be found here: [github](https://github.com/xunyunliu/MessageBroadcasterDemo).
